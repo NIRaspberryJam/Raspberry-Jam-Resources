@@ -5,7 +5,7 @@ Note, this must be installs on all the Raspberry Pis for this activity.
    
 Some [example server](NetworkCode/trafficServer.py) code is included. It works for any resources you have to share, not just a traffic light. It writes the received string to a text file which another other application can read from.   
    
-- [Activity PDF](Traffic-Explorer-Python-Level2.pdf)   
+- [Activity PDF](Traffic-Explorer-Python-Level2.pdf?raw=true)   
 - [Activity Markdown file](Traffic-Explorer-Python-Level2.md)    
 - [Required library](https://raw.githubusercontent.com/raspberrypilearning/networking-lessons/master/lesson-1/code/network.py)   
 - [Example server code](NetworkCode/trafficServer.py)   

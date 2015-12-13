@@ -4,7 +4,7 @@ It is recommended you also pick up some crocodile clips and a conductive materia
 For the Scratch activity, Simon Walters ScratchGPIO is required. At the time of writing this, reliable support for the Explorer HAT is only available in [ScratchGPIO7Dev](http://simplesi.net/scratchgpio-development-testing/).   
 Apart from the [Pimoroni Explorer HAT library](https://github.com/pimoroni/explorer-hat), no other software is required for the Python activity.   
    
-- [Activity PDF - Scratch](ExplorerHAT-Level1-ScratchGPIO.pdf)   
+- [Activity PDF - Scratch](ExplorerHAT-Level1-ScratchGPIO.pdf?raw=true)   
 - [Activity Markdown file - Scratch](ExplorerHAT-Level1-ScratchGPIO.md)    
-- [Activity PDF - Python](ExplorerHAT-Level1-Python.pdf)     
+- [Activity PDF - Python](ExplorerHAT-Level1-Python.pdf?raw=true)     
 - [Activity Markdown file - Python](ExplorerHAT-Level1-Python.md)   
