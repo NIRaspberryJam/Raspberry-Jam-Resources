@@ -12,3 +12,10 @@ For details on how we create our worksheets and export them as nicely rendered P
    
 - [Explorer HAT Getting started (Scratch and Python) - Level 1](Explorer-HAT-Getting-started-Level1/)   
 - [Traffic Explorer (Python) - Level 2](Traffic-Explorer-Level2/)    
+- [Introduction to Electronics with Explorer HAT - Level 2](Electronics-Intro-Explorer-Level2/)
+- [Explorer HAT cheat sheet](Explorer-HAT-Cheat-sheet/)
+- [Controlling the Pi-Stop with Scratch](Pi-Stop-Scratch/)
+- [Controlling the Pi-Stop with Python](Pi-Stop-Python/)
+- [Creating a Twitter Photobooth with Python](Twitter-photobooth/)
+- [Ultrasonic Theremin](Ultrasonic-Theremin/)
+- [Hack the Dazzling Raspbertree](Hack-the-Dazzling-Raspbertree/)
