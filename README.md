@@ -6,22 +6,22 @@ We have used a number of activities from the [Raspberry Pi Foundation's excellen
 If this repository happens to be out of date or missing resources, drop [Andrew](https://twitter.com/gbaman1) a tweet.
 
 ## Beginner
-- [Getting started with Pi-Stops - Scratch](Activities/Getting started with the Pi-Stop - Scratch/Scratch Worksheet.pdf)
-- [Getting started with Pi-Stops - Python](Activities/Getting started with the Pi-Stop - Python/PiStop-Python.pdf)
-- [Hack the Dazzling Raspbertree](Activities/Hack the Dazzling Raspbertree/Tree.pdf)
-- [A day at the races - Scratch](Activities/Scratch - A Day at the Races/Worksheet.pdf)
-- [Microbit Nightlight (Sparkles)](Activities/Microbit Nightlight/worksheet-sparkle.pdf)
-- [Microbit Nightlight (Neopixel LED)](Activities/Microbit Nightlight/worksheet-led.pdf)
-- [Introduction to the Sense HAT](Activities/Introduction to Sense HAT/Worksheet.pdf)
+- [Getting started with Pi-Stops - Scratch](Activities/Getting-started-with-the-Pi-Stop-Scratch/Scratch Worksheet.pdf)
+- [Getting started with Pi-Stops - Python](Activities/Getting-started-with-the-Pi-Stop-Python/PiStop-Python.pdf)
+- [Hack the Dazzling Raspbertree](Activities/Hack-the-Dazzling-Raspbertree/Tree.pdf)
+- [A day at the races - Scratch](Activities/Scratch-A-Day-at-the-Races/Worksheet.pdf)
+- [Microbit Nightlight (Sparkles)](Activities/Microbit-Nightlight/worksheet-sparkle.pdf)
+- [Microbit Nightlight (Neopixel LED)](Activities/Microbit-Nightlight/worksheet-led.pdf)
+- [Introduction to the Sense HAT](Activities/Introduction-to-Sense-HAT/Worksheet.pdf)
 
 ## Intermediate  
-- [Microbit Milk Monster](Activities/Microbit milk monster/worksheet.pdf)
-- [Microbit Ghost](Activities/Microbit Ghost/worksheet.pdf)
-- [Microbit Scratch controller](Activities/Microbit Scratch Controller/Worksheet.pdf)
-- [Hack the Dazzling Raspbertree extension](Activities/Hack the Dazzling Raspbertree/Rainbow.pdf)
+- [Microbit Milk Monster](Activities/Microbit-milk-monster/worksheet.pdf)
+- [Microbit Ghost](Activities/Microbit-Ghost/worksheet.pdf)
+- [Microbit Scratch controller](Activities/Microbit-Scratch-Controller/Worksheet.pdf)
+- [Hack the Dazzling Raspbertree extension](Activities/Hack-the-Dazzling-Raspbertree/Rainbow.pdf)
 
 ## Advanced
-- [Cracking WEP secured wifi networks](Activities/Cracking WEP secured WiFi Using RPI/worksheet.pdf)
+- [Cracking WEP secured wifi networks](Activities/Cracking-WEP-secured-WiFi-Using-RPI/worksheet.pdf)
 
 
 ## Legacy activities 
