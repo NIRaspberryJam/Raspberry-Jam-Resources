@@ -6,7 +6,7 @@ We have used a number of activities from the [Raspberry Pi Foundation's excellen
 If this repository happens to be out of date or missing resources, drop [Andrew](https://twitter.com/gbaman1) a tweet.
 
 ## Beginner
-- [Getting started with Pi-Stops - Scratch](Activities/Getting-started-with-the-Pi-Stop-Scratch/Scratch Worksheet.pdf)
+- [Getting started with Pi-Stops - Scratch](Activities/Getting-started-with-the-Pi-Stop-Scratch/Scratch-Worksheet.pdf)
 - [Getting started with Pi-Stops - Python](Activities/Getting-started-with-the-Pi-Stop-Python/PiStop-Python.pdf)
 - [Hack the Dazzling Raspbertree](Activities/Hack-the-Dazzling-Raspbertree/Tree.pdf)
 - [A day at the races - Scratch](Activities/Scratch-A-Day-at-the-Races/Worksheet.pdf)
